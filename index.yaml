@@ -3,9 +3,19 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-27T15:01:43.342688+05:00"
+    created: "2025-11-27T15:03:25.814085+05:00"
     description: A Helm chart for Kubernetes
-    digest: dff748fe0eabf64bfc9a4a39249a871cf19b49fac2651f00b14bbe8066ab320f
+    digest: c05472cdc189f22e4bb2ef546ea77546a90bdfda9eedb32e0b3fb944ecea1745
+    name: mychart
+    type: application
+    urls:
+    - https://MuuNU.github.io/test-helm/mychart-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-11-27T15:03:25.813913+05:00"
+    description: A Helm chart for Kubernetes
+    digest: 15dc9718aed051032e7f4431dd583104239c94d21b6927e504048aa17a701f7d
     name: mychart
     type: application
     urls:
@@ -13,7 +23,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-27T15:01:43.341954+05:00"
+    created: "2025-11-27T15:03:25.813512+05:00"
     description: A Helm chart for Kubernetes
     digest: 0d4b0af0e0aa006d3d978f432a147dc9b50399519748187e9896f9e635f83c7c
     name: mychart
@@ -23,7 +33,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-27T15:01:43.341627+05:00"
+    created: "2025-11-27T15:03:25.813135+05:00"
     description: A Helm chart for Kubernetes
     digest: 9de9ff79a4d0781fc67135eb006bed1392f4db4a79666d4809d6285798d7c518
     name: mychart
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://MuuNU.github.io/test-helm/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-27T15:01:43.340707+05:00"
+generated: "2025-11-27T15:03:25.81217+05:00"
