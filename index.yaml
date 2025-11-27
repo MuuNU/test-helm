@@ -11,4 +11,6 @@ entries:
     urls:
     - https://MuuNU.github.io/test-helm/mychart-0.1.0.tgz
     version: 0.1.0
+    - https://MuuNU.github.io/test-helm/mychart-0.2.0.tgz
+    version: 0.2.0
 generated: "2025-11-27T13:55:13.931497+05:00"
